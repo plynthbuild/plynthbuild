@@ -19,6 +19,6 @@ Robots that work in the lab stall in real buildings: elevators, badge doors and 
 
 The film is at [plynth.build](https://www.plynth.build). Simulated devices.
 
-**October 2026:** running end to end on simulated devices and in the makers' sandboxes: 300+ rides in KONE's virtual building, badge doors through Seam's sandbox, 345 automated tests. Python and SQLite on site, React and three.js for the owner's app, Claude for the building's agent. Starting in AI data centers.
+**October 2026:** running end to end on simulated devices and in the makers' sandboxes: elevator rides through KONE's robot API, badge doors through Seam's sandbox, 345 automated tests. Python and SQLite on site, React and three.js for the owner's app, Claude for the building's agent. Starting in AI data centers.
 
 The code is private. For access, write to [studio@plynth.build](mailto:studio@plynth.build).
