@@ -5,7 +5,7 @@
 
 ### The physical AI layer for buildings.
 
-Agentic middleware to onboard any robot, on the owner's rules.
+Agentic middleware to onboard any robot into buildings, on the owner's rules.
 
 Robots that work in the lab stall in real buildings: elevators, badge doors and security were built for people, so today a person walks each robot through. Plynth is the building's side of deployment.
 
